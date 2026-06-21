@@ -1,1 +1,1 @@
-Basic codes for understanding git
+Basic codes for understanding git and github
